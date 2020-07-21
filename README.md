@@ -1,2 +1,2 @@
 # FastChat
-Realtime Chat Application
+Realtime Chat Application using Node.js and Socket.io
